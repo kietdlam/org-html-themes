@@ -279,6 +279,12 @@ dl dd{
         width:100%}
 }
 
+.org-src-container {
+    position: relative;
+    overflow-y: auto;
+    height: 100px;
+}
+
 code{
     background:#fff;
     border:solid 1px #e1e4e5;

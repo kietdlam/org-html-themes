@@ -280,9 +280,8 @@ dl dd{
 }
 
 .org-src-container {
-    position: relative;
     overflow-y: auto;
-    height: 100px;
+    height: 300px;
 }
 
 code{
